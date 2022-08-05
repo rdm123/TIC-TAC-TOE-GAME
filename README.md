@@ -1,4 +1,4 @@
-<pre>to View demo<a href="https://rdm123.github.io/TIC-TAC-TOE-GAME/"> click here</a></pre>
+<pre>To View demo<a href="https://rdm123.github.io/TIC-TAC-TOE-GAME/"> click here</a></pre>
 
 # TIC-TAC-TOE-GAME
 
